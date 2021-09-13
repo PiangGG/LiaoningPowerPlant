@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LiaoningPowerPlant",
+			"Path": "D:\\Code\\UnrealEngine\\LiaoningPowerPlant\\Source\\LiaoningPowerPlant.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LiaoningPowerPlantEditor",
+			"Path": "D:\\Code\\UnrealEngine\\LiaoningPowerPlant\\Source\\LiaoningPowerPlantEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
